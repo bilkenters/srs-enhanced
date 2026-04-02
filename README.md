@@ -15,7 +15,7 @@
 
 ## 🇹🇷 Türkçe 
 
-**Bilkent SRS Enhanced**, Bilkent Üniversitesi SRS (Student Review System) arayüzünü modernize eden, öğrenci odaklı bir tarayıcı eklentisidir. **Bilkenters.com Geliştirici Ekibi** tarafından üretilmiş ve açık kaynak olarak yayınlanmıştır.
+**Bilkent SRS Enhanced**, öğrencilere ana sayfada çok daha fazla faydalı bilgi göstermeyi hedefleyen, Bilkent Üniversitesi SRS arayüzünü modernize eden bir tarayıcı eklentisidir. **Bilkenters.com Geliştirici Ekibi** tarafından geliştirilmiş ve açık kaynak olarak yayınlanmıştır.
 
 ### Özellikler
 - **Yaklaşan Sınavlar Paneli:** Ana sayfada vize ve finallerin kalan süreleriyle birlikte listelendiği dinamik bir gösterge paneli sunar.
@@ -38,7 +38,7 @@ Soru, öneri ve işbirlikleri için: **contact@bilkenters.com**
 
 ## 🇬🇧 English
 
-**Bilkent SRS Enhanced** is an open-source browser extension that modernizes the Bilkent University SRS interface to maximize student productivity. Designed and published by the **Bilkenters.com Development Team**.
+**Bilkent SRS Enhanced** is an open-source browser extension aiming to surface much more useful information directly on the main page, modernizing the Bilkent University SRS interface. Developed and published by the **Bilkenters.com Development Team**.
 
 ### Features
 - **Upcoming Exams Dashboard:** Injects a dynamic dashboard onto the main layout, displaying midterm and final schedules with countdowns.

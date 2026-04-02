@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Bilkent SRS Enhanced",
   "version": "1.0.0",
-  "description": "Bilkent SRS için yaklaşan sınavlar paneli ve devamsızlık/not rozetleri. bilkenters.com tarafından geliştirilmiştir.",
+  "description": "Bilkent SRS ana sayfasında daha fazla bilgi göstermeyi hedefleyen eklenti. Bilkenters.com geliştirici ekibi tarafından geliştirilmiştir.",
   "permissions": ["storage"],
   "icons": {
     "16": "icons/icon16.png",
