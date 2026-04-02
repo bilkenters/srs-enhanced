@@ -1,0 +1,41 @@
+{
+  "manifest_version": 3,
+  "name": "Bilkent SRS Enhanced",
+  "version": "1.0.0",
+  "description": "Bilkent SRS için yaklaşan sınavlar paneli ve devamsızlık/not rozetleri. bilkenters.com tarafından geliştirilmiştir.",
+  "permissions": ["storage"],
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "action": {
+    "default_popup": "popup/popup.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://stars.bilkent.edu.tr/srs/*"],
+      "css": [
+        "content-scripts/styles/enhancements.css"
+      ],
+      "js": [
+        "content-scripts/modules/utils.js",
+        "content-scripts/modules/dashboard.js",
+        "content-scripts/modules/badges.js",
+        "content-scripts/main.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["icons/*"],
+      "matches": ["https://stars.bilkent.edu.tr/*"]
+    }
+  ]
+}
