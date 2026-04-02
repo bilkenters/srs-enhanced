@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="ornek.webp" alt="Bilkent SRS Enhanced" width="800" />
-  <h1>Bilkent SRS Enhanced</h1>
+  <img src="ornek.webp" alt="Better SRS" width="800" />
+  <h1>Better SRS</h1>
   <p><strong>A modern and productive overhaul for the Bilkent University SRS interface.</strong></p>
   <p>Developed and published by the <a href="https://bilkenters.com"><b>bilkenters.com</b></a> development team.</p>
   <br>
@@ -15,7 +15,7 @@
 
 ## 🇹🇷 Türkçe 
 
-**Bilkent SRS Enhanced**, öğrencilere ana sayfada çok daha fazla faydalı bilgi göstermeyi hedefleyen, Bilkent Üniversitesi SRS arayüzünü modernize eden bir tarayıcı eklentisidir. **Bilkenters.com Geliştirici Ekibi** tarafından geliştirilmiş ve açık kaynak olarak yayınlanmıştır.
+**Better SRS**, öğrencilere ana sayfada çok daha fazla faydalı bilgi göstermeyi hedefleyen, Bilkent Üniversitesi SRS arayüzünü modernize eden bir tarayıcı eklentisidir. **Bilkenters.com Geliştirici Ekibi** tarafından geliştirilmiş ve açık kaynak olarak yayınlanmıştır.
 
 ### Özellikler
 - **Yaklaşan Sınavlar Paneli:** Ana sayfada vize ve finallerin kalan süreleriyle birlikte listelendiği dinamik bir gösterge paneli sunar.
@@ -38,7 +38,7 @@ Soru, öneri ve işbirlikleri için: **contact@bilkenters.com**
 
 ## 🇬🇧 English
 
-**Bilkent SRS Enhanced** is an open-source browser extension aiming to surface much more useful information directly on the main page, modernizing the Bilkent University SRS interface. Developed and published by the **Bilkenters.com Development Team**.
+**Better SRS** is an open-source browser extension aiming to surface much more useful information directly on the main page, modernizing the Bilkent University SRS interface. Developed and published by the **Bilkenters.com Development Team**.
 
 ### Features
 - **Upcoming Exams Dashboard:** Injects a dynamic dashboard onto the main layout, displaying midterm and final schedules with countdowns.

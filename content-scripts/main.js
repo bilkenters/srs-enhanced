@@ -27,7 +27,7 @@
     var btn = document.getElementById('srs-native-toggle');
     if (!btn) return;
     btn.className = isMasterOn ? 'srs-native-btn srs-native-on' : 'srs-native-btn srs-native-off';
-    btn.innerHTML = isMasterOn ? 'SRS Enhanced: Aktif' : 'SRS Enhanced: Devre Dışı';
+    btn.innerHTML = isMasterOn ? 'Better SRS: Aktif' : 'Better SRS: Devre Dışı';
   }
 
   function injectNativeToggle(initialState) {

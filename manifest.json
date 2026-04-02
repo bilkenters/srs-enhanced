@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Bilkent SRS Enhanced",
+  "name": "Better SRS",
   "version": "1.0.0",
   "description": "Bilkent SRS ana sayfasında daha fazla bilgi göstermeyi hedefleyen eklenti. Bilkenters.com geliştirici ekibi tarafından geliştirilmiştir.",
   "permissions": ["storage"],
